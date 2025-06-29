@@ -37,6 +37,15 @@ a:hover {
   text-decoration: underline;
 }
 
+.socials img {
+  margin-top: 8px;
+  transition: transform 0.2s ease;
+}
+
+.socials img:hover {
+  transform: scale(1.1);
+}
+
 footer {
   background-color: #ecf0f1;
   text-align: center;
